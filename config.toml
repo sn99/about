@@ -1,8 +1,0 @@
-baseURL = "https://sn99.github.io/blog/"
-languageCode = "en-us"
-title = "sn99"
-theme = "aether"
-
-[params]
-brand = "sn99"
-description = "None Needed :p"
